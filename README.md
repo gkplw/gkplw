@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Merry Match](https://merry-match-nine.vercel.app/)
 
-- 📝 I regularly write articles on [https://ponlawat-sangtub-blog.vercel.app/](https://ponlawat-sangtub-blog.vercel.app/)
+- 📝 I write articles on [https://ponlawat-sangtub-blog.vercel.app/](https://ponlawat-sangtub-blog.vercel.app/)
 
 - 📫 How to reach me **p.sangtub@gmail.com**
 
