@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ponlawat Sangtub</h1>
-<h3 align="center">A passionate full-stack developer from Thailand</h3>
+<h3 align="center">Motivated Full-Stack Software Developer with a finance background, proficient in JavaScript for building web applications.</h3>
 
 - 🔭 I’m currently working on [Merry Match](https://merry-match-nine.vercel.app/)
 
