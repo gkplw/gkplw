@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ponlawat Sangtub</h1>
 <h3 align="center">Full-Stack Software Developer with a finance background.</h3>
 
-- 🔭 I’m currently working on [Merry Match](https://merry-match-nine.vercel.app/)
+- 🔭 I’m currently working on project [Merry Match](https://merry-match-nine.vercel.app/)
 
 - 📝 I write articles on [https://ponlawat-sangtub-blog.vercel.app/](https://ponlawat-sangtub-blog.vercel.app/)
 
